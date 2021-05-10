@@ -17,23 +17,13 @@ Tech tools:
 
 Other tools I like to play with:
 
-![](https://img.shields.io/badge/AdobePremierePro-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=teal)
-![](https://img.shields.io/badge/AdobeAfterEffects-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=teal)
-![](https://img.shields.io/badge/Audacity-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=teal)
-![](https://img.shields.io/badge/Ableton9-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=teal)
-![](https://img.shields.io/badge/ProTools-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=teal)
+![](https://img.shields.io/badge/AdobePremierePro-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=gold)
+![](https://img.shields.io/badge/AdobeAfterEffects-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=gray)
+![](https://img.shields.io/badge/Audacity-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=tan)
+![](https://img.shields.io/badge/Ableton9-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=darkblue)
+![](https://img.shields.io/badge/ProTools-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=jade)
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
 
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
 
 <!--
 **Ginger-Mano/Ginger-Mano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
