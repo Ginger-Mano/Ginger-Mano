@@ -1,4 +1,39 @@
-### Hi there 👋
+![Black and White Independence Day Twitter Header](https://user-images.githubusercontent.com/61391413/117715337-1e8a4e00-b1a6-11eb-9583-db2de8284ff9.gif)
+### Hi there! Welcome to my GitHub! 
+
+Tech tools: 
+
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=darkgreen&logoWidth=40) 
+![](https://img.shields.io/badge/React-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=blue)
+![](https://img.shields.io/badge/Rails-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=orange)
+![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=blueviolet)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=black)
+
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=navy)
+![](https://img.shields.io/badge/SemanticUI-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=magenta)
+![](https://img.shields.io/badge/PostgresQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=lightblue)
+![](https://img.shields.io/badge/ActiveRecord-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=purple)
+![](https://img.shields.io/badge/MVC-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=red)
+
+Other tools I like to play with:
+
+![](https://img.shields.io/badge/AdobePremierePro-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=teal)
+![](https://img.shields.io/badge/AdobeAfterEffects-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=teal)
+![](https://img.shields.io/badge/Audacity-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=teal)
+![](https://img.shields.io/badge/Ableton9-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=teal)
+![](https://img.shields.io/badge/ProTools-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=teal)
+
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+
+[1]: https://twitter.com/Martin_Heinz_
+[2]: https://www.linkedin.com/in/heinz-martin/
 
 <!--
 **Ginger-Mano/Ginger-Mano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
