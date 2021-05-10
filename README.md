@@ -24,7 +24,7 @@ Other tools I like to play with:
 ![](https://img.shields.io/badge/ProTools-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=jade)
 
 
-
+[![Manon's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ginger-Mano)](https://github.com/Ginger-Mano&theme=react-dark/github-readme-activity-graph)
 <!--
 **Ginger-Mano/Ginger-Mano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
