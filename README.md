@@ -1,25 +1,41 @@
 ![Black and White Independence Day Twitter Header](https://user-images.githubusercontent.com/61391413/117715337-1e8a4e00-b1a6-11eb-9583-db2de8284ff9.gif)
 
 ## <div align="center">Hey! 👋🏽    Welcome to my GitHub! </div>
+
+
+<div align="center">
+<img src="https://media3.giphy.com/headers/Rapapawn/PROc0H6ALQxL.gif" />
+ </div>
+ 
 ***
 
-### About Me:
 
-* 💻 _Software Engineer from NYC_  </div>
-* ❤️ I love multisensory experiences  
-* 🎨 Artist that intersects visual, sound, tech, and mental health  
-* 🟢 My favorite color is jungle green  
-* ✊🏽 Passionate about empowerment and inclusion
+## About Me:
+
+* 💻 **Software Engineer from NYC**  </div>
+* ❤️ **I love multisensory experiences**  
+* 🎨 **Artist that intersects visual, sound, tech, and mental health**  
+* 🟢 **My favorite color is jungle green**  
+* ✊🏽 **Passionate about empowerment and inclusion** 
+
+<br>
+
+ <br>
+
+## Currently thinking about:
+
+* 💡 **Mixed Reality**  
+* 🔑 **Blockchain and Cryptocurrency**  
+* 💡 **Exploring more Web Animations**  
+* ✅ **Test Driven Development** 
 
 
 
-### Currently thinking about:
+<div align="center">
+<img src="https://data.whicdn.com/images/130492075/original.gif" /> <img src="https://media.tenor.com/images/be25bc392b35e31a7ccfc551a3e1fdea/tenor.gif" /> 
+ </div>
 
-* 💡 Mixed Reality  
-* 🔑 Blockchain and Cryptocurrency  
-* 💡 Exploring more Web Animations  
-* ✅ Test Driven Development 
-
+ 
 ***
 
 ### <div align="center"> Tech Tools: </div>
@@ -28,17 +44,17 @@
 
 <div align="center"> 
   
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=black&logoWidth=40) 
-![](https://img.shields.io/badge/React-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=mediumgreen)
-![](https://img.shields.io/badge/Rails-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=magenta)
-![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=mediumgreen)
-![](https://img.shields.io/badge/HTML-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=black) </div>
+![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=gold) 
+![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=black&color=mediumgreen)
+![](https://img.shields.io/badge/Rails-informational?style=flat&logo=Ruby-on-Rails&logoColor=black&color=magenta)
+![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=Ruby&logoColor=black&color=mediumgreen)
+![](https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=black&color=black) </div>
 
 <div align="center"> 
   
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=magenta)
-![](https://img.shields.io/badge/SemanticUI-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=black)
-![](https://img.shields.io/badge/PostgresQL-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=mediumgreen)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=CSS3&logoColor=black&color=magenta)
+![](https://img.shields.io/badge/SemanticUI-informational?style=flat&logo=Semantic-UI-React&logoColor=black&color=black)
+![](https://img.shields.io/badge/PostgresQL-informational?style=flat&logo=PostgreSQL&logoColor=black&color=mediumgreen)
 ![](https://img.shields.io/badge/ActiveRecord-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=black)
 ![](https://img.shields.io/badge/MVC-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=magenta) </div>
 
@@ -51,17 +67,16 @@
 
 <div align="center"> 
   
-![](https://img.shields.io/badge/AdobePremierePro-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=black)
-![](https://img.shields.io/badge/AdobeAfterEffects-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=darkblue)
-![](https://img.shields.io/badge/Audacity-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=red)
-![](https://img.shields.io/badge/Ableton9-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=darkblue)
-![](https://img.shields.io/badge/ProTools-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=black) </div>
-
+![](https://img.shields.io/badge/AdobePremierePro-informational?style=flat&logo=Adobe-Premiere-Pro&logoColor=black&color=lightgrey)
+![](https://img.shields.io/badge/AdobeAfterEffects-informational?style=flat&logo=Adobe-After-Effects&logoColor=black&color=darkblue)
+![](https://img.shields.io/badge/Audacity-informational?style=flat&logo=Audacity&logoColor=black&color=wheat)
+![](https://img.shields.io/badge/Ableton9-informational?style=flat&logo=Ableton-Live&logoColor=black&color=darkblue)
+![](https://img.shields.io/badge/ProTools-informational?style=flat&logo=Pro-Tools&logoColor=black&color=lightgrey) </div>
 
 
 ***
 
-### Connect with me:
+### <div align="center"> Connect with me: </div>
 
 
 <div align="center"> 
