@@ -1,6 +1,6 @@
 ![Black and White Independence Day Twitter Header](https://user-images.githubusercontent.com/61391413/117715337-1e8a4e00-b1a6-11eb-9583-db2de8284ff9.gif)
 
-## <div align="center">Hey! Welcome to my GitHub! </div>
+## <div align="center">Hey! 👋🏽    Welcome to my GitHub! </div>
 ***
 
 ### About Me:
@@ -17,7 +17,7 @@
 
 * 💡 Mixed Reality  
 * 🔑 Blockchain and Cryptocurrency  
-* 💡 Exploring more web animations  
+* 💡 Exploring more Web Animations  
 * ✅ Test Driven Development 
 
 ***
@@ -64,6 +64,12 @@
 ### Connect with me:
 
 
+
+<img src="https://user-images.githubusercontent.com/61391413/117747942-1699d080-b1dd-11eb-9907-565e387b0f50.png" height="85" width="85" />LinkedIn
+
+and
+
+<img src="https://user-images.githubusercontent.com/61391413/117748085-62e51080-b1dd-11eb-809e-edbec0b6616c.png" height="95" width="95" />Blogs!
 
 
 *** 
