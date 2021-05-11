@@ -1,12 +1,11 @@
-![Black and White Independence Day Twitter Header](https://user-images.githubusercontent.com/61391413/117715337-1e8a4e00-b1a6-11eb-9583-db2de8284ff9.gif)
-
-## <div align="center">Hey! 👋🏽    Welcome to my GitHub! </div>
-
+![Black and White Independence Day Twitter Header](https://user-images.githubusercontent.com/61391413/117868563-c1ef6780-b267-11eb-9458-09ad3e173def.gif)
 
 <div align="center">
 <img src="https://media3.giphy.com/headers/Rapapawn/PROc0H6ALQxL.gif" />
  </div>
- 
+
+## <div align="center">Hey! 👋🏽 Welcome to my GitHub! </div>
+
 ***
 
 
@@ -14,7 +13,7 @@
 
 * 💻 **Software Engineer from NYC**  </div>
 * ❤️ **I love multisensory experiences**  
-* 🎨 **Artist that intersects visual, sound, tech, and mental health**  
+* 🎨 **I'm an artist that intersects visual, sound, tech, and mental health**  
 * 🟢 **My favorite color is jungle green**  
 * ✊🏽 **Passionate about empowerment and inclusion** 
 
@@ -26,7 +25,7 @@
 
 * 💡 **Mixed Reality**  
 * 🔑 **Blockchain and Cryptocurrency**  
-* 💡 **Exploring more Web Animations**  
+* 💡 **Exploring more interactive Web Animations**  
 * ✅ **Test Driven Development** 
 
 
@@ -44,19 +43,20 @@
 
 <div align="center"> 
   
-![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=black&color=gold) 
-![](https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=black&color=mediumgreen)
-![](https://img.shields.io/badge/Rails-informational?style=flat&logo=Ruby-on-Rails&logoColor=black&color=magenta)
-![](https://img.shields.io/badge/Ruby-informational?style=flat&logo=Ruby&logoColor=black&color=mediumgreen)
-![](https://img.shields.io/badge/HTML-informational?style=flat&logo=HTML5&logoColor=black&color=black) </div>
+![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=black&color=goldenrod) 
+![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=React&logoColor=black&color=mediumslateblue)
+![](https://img.shields.io/badge/Rails-informational?style=for-the-badge&logo=Ruby-on-Rails&logoColor=black&color=goldenrod)
+![](https://img.shields.io/badge/Ruby-informational?style=for-the-badge&logo=Ruby&logoColor=black&color=mediumslateblue)
+![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=HTML5&logoColor=black&color=goldenrod) 
+![](https://img.shields.io/badge/VSCode-informational?style=for-the-badge&logo=Visual-Studio-Code&logoColor=black&color=mediumslateblue) </div>
 
 <div align="center"> 
   
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=CSS3&logoColor=black&color=magenta)
-![](https://img.shields.io/badge/SemanticUI-informational?style=flat&logo=Semantic-UI-React&logoColor=black&color=black)
-![](https://img.shields.io/badge/PostgresQL-informational?style=flat&logo=PostgreSQL&logoColor=black&color=mediumgreen)
-![](https://img.shields.io/badge/ActiveRecord-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=black)
-![](https://img.shields.io/badge/MVC-informational?style=flat&logo=<LOGO_NAME>&logoColor=black&color=magenta) </div>
+![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=CSS3&logoColor=black&color=magenta)
+![](https://img.shields.io/badge/Semantic_UI-informational?style=for-the-badge&logo=Semantic-UI-React&logoColor=black&color=black)
+![](https://img.shields.io/badge/PostgresQL-informational?style=for-the-badge&logo=PostgreSQL&logoColor=black&color=mediumgreen)
+![](https://img.shields.io/badge/Active_Record-informational?style=for-the-badge&logo=<LOGO_NAME>&logoColor=black&color=black)
+![](https://img.shields.io/badge/MVC-informational?style=for-the-badge&logo=<LOGO_NAME>&logoColor=black&color=magenta) </div>
 
 
 
@@ -66,12 +66,13 @@
 
 
 <div align="center"> 
-  
-![](https://img.shields.io/badge/AdobePremierePro-informational?style=flat&logo=Adobe-Premiere-Pro&logoColor=black&color=lightgrey)
-![](https://img.shields.io/badge/AdobeAfterEffects-informational?style=flat&logo=Adobe-After-Effects&logoColor=black&color=darkblue)
-![](https://img.shields.io/badge/Audacity-informational?style=flat&logo=Audacity&logoColor=black&color=wheat)
-![](https://img.shields.io/badge/Ableton9-informational?style=flat&logo=Ableton-Live&logoColor=black&color=darkblue)
-![](https://img.shields.io/badge/ProTools-informational?style=flat&logo=Pro-Tools&logoColor=black&color=lightgrey) </div>
+
+![](https://img.shields.io/badge/Adobe_Creative_Cloud-informational?style=for-the-badge&logo=Adobe-Creative-Cloud&logoColor=black&color=dodgerblue)
+![](https://img.shields.io/badge/Adobe_Premiere_Pro-informational?style=for-the-badge&logo=Adobe-Premiere-Pro&logoColor=black&color=crimson)
+![](https://img.shields.io/badge/Adobe_After_Effects-informational?style=for-the-badge&logo=Adobe-After-Effects&logoColor=black&color=dodgerblue)
+![](https://img.shields.io/badge/Audacity-informational?style=for-the-badge&logo=Audacity&logoColor=black&color=crimson)
+![](https://img.shields.io/badge/Ableton_Live_9-informational?style=for-the-badge&logo=Ableton-Live&logoColor=black&color=dodgerblue)
+![](https://img.shields.io/badge/Pro_Tools-informational?style=for-the-badge&logo=Pro-Tools&logoColor=black&color=crimson) </div>
 
 
 ***
@@ -81,8 +82,9 @@
 
 <div align="center"> 
  
+<img src="https://i.pinimg.com/originals/d8/10/55/d81055d32cf810a6d527b5eb9ae20f08.png" height="90" width="90" />[Website](https://manonsaintondev.herokuapp.com/) 
 <img src="https://user-images.githubusercontent.com/61391413/117747942-1699d080-b1dd-11eb-9907-565e387b0f50.png" height="85" width="85" /> [LinkedIn](https://www.linkedin.com/in/manon-sainton-7830b01ab/) 
-<img src="https://user-images.githubusercontent.com/61391413/117748085-62e51080-b1dd-11eb-809e-edbec0b6616c.png" height="90" width="90" /> [Blogs!](https://mcasimirian.medium.com/) </div>
+<img src="https://user-images.githubusercontent.com/61391413/117748085-62e51080-b1dd-11eb-809e-edbec0b6616c.png" height="90" width="90" /> [Blogs](https://mcasimirian.medium.com/) </div>
 
 
 *** 
