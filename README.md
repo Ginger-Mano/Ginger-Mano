@@ -5,7 +5,7 @@
 
 ### About Me:
 
-* 💻 Software Engineer from NYC  </div>
+* 💻 _Software Engineer from NYC_  </div>
 * ❤️ I love multisensory experiences  
 * 🎨 Artist that intersects visual, sound, tech, and mental health  
 * 🟢 My favorite color is jungle green  
@@ -64,12 +64,10 @@
 ### Connect with me:
 
 
-
-<img src="https://user-images.githubusercontent.com/61391413/117747942-1699d080-b1dd-11eb-9907-565e387b0f50.png" height="85" width="85" />LinkedIn
-
-and
-
-<img src="https://user-images.githubusercontent.com/61391413/117748085-62e51080-b1dd-11eb-809e-edbec0b6616c.png" height="95" width="95" />Blogs!
+<div align="center"> 
+ 
+<img src="https://user-images.githubusercontent.com/61391413/117747942-1699d080-b1dd-11eb-9907-565e387b0f50.png" height="85" width="85" /> [LinkedIn](https://www.linkedin.com/in/manon-sainton-7830b01ab/) 
+<img src="https://user-images.githubusercontent.com/61391413/117748085-62e51080-b1dd-11eb-809e-edbec0b6616c.png" height="90" width="90" /> [Blogs!](https://mcasimirian.medium.com/) </div>
 
 
 *** 
