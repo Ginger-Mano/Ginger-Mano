@@ -23,10 +23,10 @@
 
 ## Currently thinking about:
 
-* 💡 **Mixed Reality**  
+* 💡 **Processing**  
 * 🔑 **Blockchain and Cryptocurrency**  
 * 💡 **Exploring more interactive Web Animations**  
-* ✅ **Test Driven Development** 
+<!-- * ✅ **Test Driven Development**  -->
 
 
 
