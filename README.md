@@ -13,7 +13,7 @@
 
 * 💻 **Software Engineer from NYC**  </div>
 * ❤️ **I love multisensory experiences**  
-* 🎨 **I'm an artist that intersects visual, sound, tech, and mental health**  
+* 🎨 **I'm an artist that intersects visual, sound, and tech**  
 * 🟢 **My favorite color is jungle green**  
 * ✊🏽 **Passionate about empowerment and inclusion** 
 
@@ -23,9 +23,9 @@
 
 ## Currently thinking about:
 
-* 💡 **Processing**  
-* 🔑 **Blockchain and Cryptocurrency**  
-* 💡 **Exploring more interactive Web Animations**  
+* 💡 **The next billion users**  
+* 🔑 **Creating equitable and inclusive apps**  
+* 💡 **UX Frameworks and Design Processes**  
 <!-- * ✅ **Test Driven Development**  -->
 
 
