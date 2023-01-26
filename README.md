@@ -44,17 +44,21 @@
 <div align="center"> 
   
 ![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=black&color=goldenrod) 
-![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=React&logoColor=black&color=mediumslateblue)
+![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=React&logoColor=black&color=goldenrod)
+![](https://img.shields.io/badge/VueJS-informational?style=for-the-badge&logo=Vue&logoColor=black&color=mediumslateblue)
 ![](https://img.shields.io/badge/Rails-informational?style=for-the-badge&logo=Ruby-on-Rails&logoColor=black&color=goldenrod)
 ![](https://img.shields.io/badge/Ruby-informational?style=for-the-badge&logo=Ruby&logoColor=black&color=mediumslateblue)
 ![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=HTML5&logoColor=black&color=goldenrod) 
-![](https://img.shields.io/badge/VSCode-informational?style=for-the-badge&logo=Visual-Studio-Code&logoColor=black&color=mediumslateblue) </div>
+![](https://img.shields.io/badge/VSCode-informational?style=for-the-badge&logo=Visual-Studio-Code&logoColor=black&color=mediumslateblue)
+![](https://img.shields.io/badge/IntelliJ-informational?style=for-the-badge&logo=IntelliJ&logoColor=black&color=mediumslateblue)</div>
 
 <div align="center"> 
   
 ![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=CSS3&logoColor=black&color=magenta)
+![](https://img.shields.io/badge/Quasar-informational?style=for-the-badge&logo=Quasar&logoColor=black&color=magenta)
 ![](https://img.shields.io/badge/Semantic_UI-informational?style=for-the-badge&logo=Semantic-UI-React&logoColor=black&color=black)
 ![](https://img.shields.io/badge/PostgresQL-informational?style=for-the-badge&logo=PostgreSQL&logoColor=black&color=mediumgreen)
+![](https://img.shields.io/badge/GraphQL-informational?style=for-the-badge&logo=GraphQL&logoColor=black&color=mediumgreen)
 ![](https://img.shields.io/badge/Active_Record-informational?style=for-the-badge&logo=<LOGO_NAME>&logoColor=black&color=black)
 ![](https://img.shields.io/badge/MVC-informational?style=for-the-badge&logo=<LOGO_NAME>&logoColor=black&color=magenta) </div>
 
