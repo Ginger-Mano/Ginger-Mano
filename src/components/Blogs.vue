@@ -18,7 +18,7 @@
         <div class="text-h6">
           <q-btn class="zoom">
             <a
-              :href="destructureLink"
+              href="https://medium.com/javascript-in-plain-english/applying-basic-destructuring-in-react-ede119aab03e"
               style="
                 text-decoration: none;
                 font-weight: bold;
@@ -47,7 +47,7 @@
         <div class="text-h6">
           <q-btn class="zoom">
             <a
-              :href="colorLink"
+              href="https://mcasimirian.medium.com/a-brief-intro-to-color-theory-f25fd3479bd2"
               style="
                 text-decoration: none;
                 font-weight: bold;
@@ -76,7 +76,7 @@
         <div class="text-h6">
           <q-btn class="zoom">
             <a
-              :href="jsxLink"
+              href="https://mcasimirian.medium.com/the-basics-of-using-jsx-in-react-js-578db41ec625"
               style="
                 text-decoration: none;
                 color: black;
@@ -105,7 +105,7 @@
         <div class="text-h6">
           <q-btn class="zoom">
             <a
-              :href="creativesLink"
+              href="https://mcasimirian.medium.com/5-tips-for-creatives-navigating-a-coding-bootcamp-58b2e19bbcf0"
               style="
                 text-decoration: none;
                 color: black;
@@ -127,20 +127,6 @@ import { defineComponent, ref } from "vue";
 
 export default defineComponent({
   name: "BlogsPage",
-  computed: {
-    destructureLink() {
-      return process.env.VUE_APP_DESTRUCTURING;
-    },
-    colorLink() {
-      return process.env.VUE_APP_COLOR;
-    },
-    jsxLink() {
-      return process.env.VUE_APP_JSX;
-    },
-    creativesLink() {
-      return process.env.VUE_APP_CREATIVES;
-    },
-  },
   setup() {
     const visible = ref(false);
     const showSimulatedReturnData = ref(false);

@@ -8,7 +8,7 @@
       <q-card-section>
         <div class="text-h6">
           <q-video
-            :src="spotzLink"
+            src="https://www.youtube.com/embed/pRNGNh_npa0"
             loading="lazy"
             @vnode-mounted="showTextLoading"
           >
@@ -23,7 +23,7 @@
 
           <q-btn class="zoom">
             <a
-              :href="spotzGit"
+              href="https://github.com/Ginger-Mano/Mod2Project"
               style="
                 text-decoration: none;
                 color: black;
@@ -41,7 +41,12 @@
     <q-card class="q-pa-md" style="width: 100%" bordered>
       <q-card-section>
         <div class="text-h6">
-          <q-video :src="wildLink" loading="lazy"> The Wildlife Keep </q-video>
+          <q-video
+            src="https://www.youtube.com/embed/7xE0sdlucyI"
+            loading="lazy"
+          >
+            The Wildlife Keep
+          </q-video>
 
           <q-inner-loading :showing="visible">
             <q-spinner-gears size="50px" color="grey" />
@@ -51,7 +56,7 @@
 
           <q-btn class="zoom">
             <a
-              :href="wildFront"
+              href="https://github.com/Ginger-Mano/WildlifeKeep-Frontend2/blob/main/src/App.js"
               style="
                 text-decoration: none;
                 color: black;
@@ -65,7 +70,7 @@
           &nbsp;
           <q-btn class="zoom">
             <a
-              :href="wildBack"
+              href="https://github.com/Ginger-Mano/The-Wildlife-Keep-Backend"
               style="
                 text-decoration: none;
                 color: black;
@@ -83,27 +88,10 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, ref, computed } from "vue";
+import { defineComponent, ref } from "vue";
 
 export default defineComponent({
   name: "ProjectsPage",
-  computed: {
-    wildLink() {
-      return process.env.VUE_APP_WILDLIFE;
-    },
-    spotzLink() {
-      return process.env.VUE_APP_SPOTZ;
-    },
-    spotzGit() {
-      return process.env.VUE_APP_SPOTZ_GIT;
-    },
-    wildFront() {
-      return process.env.VUE_APP_WILD_FRONT;
-    },
-    wildBack() {
-      return process.env.VUE_APP_WILD_BACK;
-    },
-  },
   setup() {
     const visible = ref(false);
     const showSimulatedReturnData = ref(false);
