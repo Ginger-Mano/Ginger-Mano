@@ -8,11 +8,11 @@
         disable
         class="subheader"
         style="
-          font-weight: bold;
-          background-color: goldenrod;
+          font-weight: bolder;
+          background-color: rgb(216, 241, 117);
           border-style: solid;
           border-color: black;
-          border-width: 2px;
+          border-width: 3px;
         "
       >
         creative technologist + software engineer
@@ -23,7 +23,7 @@
           <q-item>
             <q-item-section avatar>
               <q-avatar size="7em">
-                <img src="src/assets/Attachment-1.jpeg" />
+                <img :src="aboutPic" />
               </q-avatar>
             </q-item-section>
 
@@ -50,7 +50,7 @@
           <q-item>
             <q-item-section avatar>
               <q-avatar rounded size="5em">
-                <img src="src/assets/662608.png" />
+                <img :src="projectPic" />
               </q-avatar>
             </q-item-section>
 
@@ -77,7 +77,7 @@
           <q-item>
             <q-item-section avatar>
               <q-avatar rounded size="6em">
-                <img src="src/assets/blogg.png" />
+                <img :src="blogPic" />
               </q-avatar>
             </q-item-section>
 
@@ -180,41 +180,23 @@
       </q-list>
 
       <q-toolbar style="align-self: center; justify-content: center">
-        <a href="https://github.com/Ginger-Mano" class="q-pa-md">
-          <img
-            src="https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/48/null/external-github-social-media-tanah-basah-glyph-tanah-basah.png"
-            class="zoom"
-          />
+        <a :href="gitLink" class="q-pa-md">
+          <img :src="gitIcon" class="zoom" />
           <q-tooltip anchor="top middle" class="bg-black">Github</q-tooltip>
         </a>
 
-        <a
-          href="https://www.linkedin.com/in/manon-casimir-sainton"
-          class="q-pa-md"
-        >
-          <img
-            src="https://img.icons8.com/ios/50/null/linkedin.png"
-            class="zoom"
-          />
+        <a :href="linkedInLink" class="q-pa-md">
+          <img :src="linkedIcon" class="zoom" />
           <q-tooltip anchor="top middle" class="bg-black">LinkedIn</q-tooltip>
         </a>
 
-        <a href="https://mcasimirian.medium.com/" class="q-pa-md">
-          <img
-            src="https://img.icons8.com/ios/50/null/medium-logo.png"
-            class="zoom"
-          />
+        <a :href="mediumLink" class="q-pa-md">
+          <img :src="mediumIcon" class="zoom" />
           <q-tooltip anchor="top middle" class="bg-black">Medium</q-tooltip>
         </a>
 
-        <a
-          href="https://www.youtube.com/channel/UC7giI4VW75cI-_-uqY_aRoQ"
-          class="q-pa-md"
-        >
-          <img
-            src="https://img.icons8.com/ios-filled/50/null/youtube-play.png"
-            class="zoom"
-          />
+        <a :href="ytLink" class="q-pa-md">
+          <img :src="ytIcon" class="zoom" />
           <q-tooltip anchor="top middle" class="bg-black">YouTube</q-tooltip>
         </a>
       </q-toolbar>
@@ -223,7 +205,7 @@
 </template>
 
 <script>
-import { defineComponent, ref } from "vue";
+import { defineComponent, ref, computed } from "vue";
 import About from "components/About.vue";
 import Projects from "components/Projects.vue";
 import Blogs from "components/Blogs.vue";
@@ -232,6 +214,41 @@ import p5 from "p5";
 export default defineComponent({
   name: "IndexPage",
   components: { About, Projects, Blogs },
+  computed: {
+    aboutPic() {
+      return process.env.VUE_APP_ABOUT_IMAGE;
+    },
+    projectPic() {
+      return process.env.VUE_APP_PROJECT_IMG;
+    },
+    blogPic() {
+      return process.env.VUE_APP_BLOG_IMG;
+    },
+    gitIcon() {
+      return process.env.VUE_APP_GIT_ICON;
+    },
+    linkedIcon() {
+      return process.env.VUE_APP_LINKED_ICON;
+    },
+    mediumIcon() {
+      return process.env.VUE_APP_MEDIUM_ICON;
+    },
+    ytIcon() {
+      return process.env.VUE_APP_YT_ICON;
+    },
+    gitLink() {
+      return process.env.VUE_APP_GIT;
+    },
+    linkedInLink() {
+      return process.env.VUE_APP_LINKED;
+    },
+    mediumLink() {
+      return process.env.VUE_APP_MEDIUM;
+    },
+    ytLink() {
+      return process.env.VUE_APP_YT;
+    },
+  },
   setup() {
     const aboutModal = ref(false);
     const projectsModal = ref(false);
