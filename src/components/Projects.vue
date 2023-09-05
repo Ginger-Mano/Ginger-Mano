@@ -111,6 +111,7 @@ export default defineComponent({
     return {
       visible,
       showSimulatedReturnData,
+      computed,
 
       showTextLoading() {
         visible.value = true;

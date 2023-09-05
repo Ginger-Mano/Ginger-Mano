@@ -123,7 +123,7 @@
 </template>
 
 <script lang="ts">
-import { defineComponent, ref } from "vue";
+import { defineComponent, ref, computed } from "vue";
 
 export default defineComponent({
   name: "BlogsPage",
@@ -148,6 +148,7 @@ export default defineComponent({
     return {
       visible,
       showSimulatedReturnData,
+      computed,
 
       showTextLoading() {
         visible.value = true;

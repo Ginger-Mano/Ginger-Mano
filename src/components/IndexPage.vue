@@ -309,6 +309,7 @@ export default defineComponent({
       aboutModal,
       projectsModal,
       blogsModal,
+      computed,
       myp5,
     };
   },
